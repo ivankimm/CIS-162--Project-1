@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+html {
+    margin-left: 7em;
+    margin-right: 7em;
+}
+
+p {
+    font-family: 'Abril Fatface';font-size: 22px;
+}
